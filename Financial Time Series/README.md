@@ -1,0 +1,1 @@
+The jupyter notebooks in this folder use the R kernel. You may need to install some dependencies for this to work in your enviroments (I use VS Code as my IDE).
